@@ -1,0 +1,36 @@
+Processed at: 11/13/2022 7:55:12 PM
+
+Request: get-all
+Status: Method: GET, RequestUri: 'https://localhost:7222/Monster/get-all', Version: 1.1, Content: <null>, Headers:
+{
+  Accept: application/json
+}
+Code: OK
+Time: 11/13/2022 7:55:12 PM
+
+Request: get-by-id
+Status: Method: GET, RequestUri: 'https://localhost:7222/Monster/get-by-id/5', Version: 1.1, Content: <null>, Headers:
+{
+  Accept: application/json
+}
+Code: OK
+Time: 11/13/2022 7:55:12 PM
+
+Request: update-by-id
+Status: Method: POST, RequestUri: 'https://localhost:7222/Monster/update-by-id/5/Gobbler/Ghastly Gourd/100/150/Haunted Forest', Version: 1.1, Content: System.Net.Http.StringContent, Headers:
+{
+  Accept: application/json
+  Content-Type: text/plain; charset=utf-8
+  Content-Length: 0
+}
+Code: OK
+Time: 11/13/2022 7:55:12 PM
+
+Request: delete-by-id
+Status: Method: DELETE, RequestUri: 'https://localhost:7222/Monster/delete-by-id/10', Version: 1.1, Content: <null>, Headers:
+{
+  Accept: application/json
+}
+Code: OK
+Time: 11/13/2022 7:55:12 PM
+

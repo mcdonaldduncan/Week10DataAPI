@@ -1,0 +1,17 @@
+C:\Users\dfmcd\Documents\GitHub\Week10Console\bin\Debug\net6.0\Week10Console.exe
+C:\Users\dfmcd\Documents\GitHub\Week10Console\bin\Debug\net6.0\Week10Console.deps.json
+C:\Users\dfmcd\Documents\GitHub\Week10Console\bin\Debug\net6.0\Week10Console.runtimeconfig.json
+C:\Users\dfmcd\Documents\GitHub\Week10Console\bin\Debug\net6.0\Week10Console.dll
+C:\Users\dfmcd\Documents\GitHub\Week10Console\bin\Debug\net6.0\Week10Console.pdb
+C:\Users\dfmcd\Documents\GitHub\Week10Console\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\dfmcd\Documents\GitHub\Week10Console\obj\Debug\net6.0\Week10Console.csproj.AssemblyReference.cache
+C:\Users\dfmcd\Documents\GitHub\Week10Console\obj\Debug\net6.0\Week10Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dfmcd\Documents\GitHub\Week10Console\obj\Debug\net6.0\Week10Console.AssemblyInfoInputs.cache
+C:\Users\dfmcd\Documents\GitHub\Week10Console\obj\Debug\net6.0\Week10Console.AssemblyInfo.cs
+C:\Users\dfmcd\Documents\GitHub\Week10Console\obj\Debug\net6.0\Week10Console.csproj.CoreCompileInputs.cache
+C:\Users\dfmcd\Documents\GitHub\Week10Console\obj\Debug\net6.0\Week10Console.csproj.CopyComplete
+C:\Users\dfmcd\Documents\GitHub\Week10Console\obj\Debug\net6.0\Week10Console.dll
+C:\Users\dfmcd\Documents\GitHub\Week10Console\obj\Debug\net6.0\refint\Week10Console.dll
+C:\Users\dfmcd\Documents\GitHub\Week10Console\obj\Debug\net6.0\Week10Console.pdb
+C:\Users\dfmcd\Documents\GitHub\Week10Console\obj\Debug\net6.0\Week10Console.genruntimeconfig.cache
+C:\Users\dfmcd\Documents\GitHub\Week10Console\obj\Debug\net6.0\ref\Week10Console.dll
